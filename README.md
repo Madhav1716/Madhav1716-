@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](![](https://github-readme-stats.vercel.app/api?username=Madhav1716&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Madhav1716&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav1716&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)) ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG52OGU1Z3RlaTk4OWFqYmd2Y3AzYzB5bXJ1bmtiOGwydWx6d2N5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif). 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav1716&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)) . ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG52OGU1Z3RlaTk4OWFqYmd2Y3AzYzB5bXJ1bmtiOGwydWx6d2N5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 
 ## 🏆 GitHub Trophies
